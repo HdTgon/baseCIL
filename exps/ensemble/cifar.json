@@ -1,0 +1,17 @@
+{
+  "prefix": " ",
+  "dataset": "cifar224",
+  "shuffle": true,
+  "init_cls": 10,
+  "increment": 10,
+  "model_name": "ensemble",
+  "backbone_name": "clip_laion400m_e32",
+  "device": ["0"],
+  "seed": [1991, 1992, 1994, 1995],
+
+  "epochs": 10,
+  "lr": 0.05,
+  "batch_size": 64,
+  "weight_decay": 0.05,
+  "min_lr": 0
+}

@@ -1,0 +1,12 @@
+{
+  "prefix": " ",
+  "dataset": "cars",
+  "shuffle": true,
+  "init_cls": 10,
+  "increment": 10,
+  "model_name": "gmm_ensemble",
+  "backbone_name": "clip_laion400m_e32",
+  "device": [0],
+  "seed": [1992, 1993, 1994],
+  "batch_size": 64
+}
