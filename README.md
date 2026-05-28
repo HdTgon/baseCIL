@@ -1,7 +1,6 @@
 # On the Power of Statistics in Class-Incremental Learning with Pretrained Models
-This is the official implementation of
 
-On the Power of Statistics in Class-Incremental Learning with Pretrained Models
+The code repository for "On the Power of Statistics in Class-Incremental Learning with Pretrained Models" (ICML 2026) in PyTorch.
 
 ## Requirements
 ### Building environment
